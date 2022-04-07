@@ -1,0 +1,88 @@
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\appsettings.json
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.exe
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.deps.json
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.runtimeconfig.json
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.runtimeconfig.dev.json
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.pdb
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.AssemblyInfo.cs
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.MvcApplicationPartsAssemblyInfo.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\staticwebassets\Vizsga.StaticWebAssets.Manifest.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.RazorTargetAssemblyInfo.cache
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.CopyComplete
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.dll
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.pdb
+T:\Bognár Pál\14A programozás\2022-03-28 Back-end gyakorlás\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.genruntimeconfig.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\appsettings.json
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.exe
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.deps.json
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.runtimeconfig.json
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.runtimeconfig.dev.json
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Vizsga.pdb
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.AssemblyReference.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.GeneratedMSBuildEditorConfig.editorconfig
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.AssemblyInfoInputs.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.AssemblyInfo.cs
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.CoreCompileInputs.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.MvcApplicationPartsAssemblyInfo.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\staticwebassets\Vizsga.StaticWebAssets.Manifest.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\staticwebassets\Vizsga.StaticWebAssets.xml
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\scopedcss\bundle\Vizsga.styles.css
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.RazorTargetAssemblyInfo.cache
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.csproj.CopyComplete
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.dll
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.pdb
+D:\KlenovszkyAron_MobilAppok\Vizsga\Vizsga\obj\Debug\netcoreapp3.1\Vizsga.genruntimeconfig.cache
